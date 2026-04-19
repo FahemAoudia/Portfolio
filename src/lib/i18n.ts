@@ -221,7 +221,7 @@ export const translations: Record<Locale, Translation> = {
           title: "Makasouk",
           subtitle: "Plateforme de couture sur-mesure",
           description:
-            "Plateforme e-commerce sur-mesure en temps réel, intégrant mesures guidées, suivi des commandes et une architecture full-stack conçue pour la gestion multi-rôles.",
+            "Plateforme e-commerce sur-mesure en temps réel, intégrant mesures guidées, suivi des commandes et une architecture full-stack conçue pour des parcours multi-rôles.",
           highlights: [
             "Guided measurement system with dynamic multilingual support (FR/AR)",
             "Real-time order lifecycle using WebSockets (Socket.io)",
@@ -237,7 +237,7 @@ export const translations: Record<Locale, Translation> = {
           title: "BrainScan AI",
           subtitle: "Plateforme de diagnostic médical",
           description:
-            "Plateforme médicale pilotée par l’IA pour l’analyse d’IRM cérébrales via des modèles CNN, avec une architecture full-stack pensée pour des usages cliniques concrets.",
+            "Plateforme médicale pilotée par l’IA pour l’analyse d’IRM cérébrales via des modèles CNN, avec une architecture full-stack adaptée à des usages cliniques réels.",
           highlights: [
             "Classification IRM par CNN (4 classes) exposée via FastAPI (API REST)",
             "Application full-stack React (SCSS, Framer Motion) avec contrôle d’accès par rôles (admin, médecin, patient)",
@@ -280,7 +280,7 @@ export const translations: Record<Locale, Translation> = {
         items: [
           { name: "Node.js / Express", level: 90 },
           { name: "FastAPI (Python)", level: 90 },
-          { name: "REST APIs", level: 88 },
+          { name: "REST APIs (secure, scalable)", level: 88 },
         ],
       },
       {
@@ -288,7 +288,7 @@ export const translations: Record<Locale, Translation> = {
         items: [
           { name: "SQL (MySQL / PostgreSQL)", level: 90 },
           { name: "MongoDB", level: 86 },
-          { name: "ORM (Prisma)", level: 88 },
+          { name: "Prisma (ORM)", level: 88 },
         ],
       },
       {
@@ -302,8 +302,8 @@ export const translations: Record<Locale, Translation> = {
       {
         name: "DevOps & cloud",
         items: [
-          { name: "Docker", level: 88 },
-          { name: "GitHub Actions (CI/CD)", level: 86 },
+          { name: "Docker (containerization)", level: 88 },
+          { name: "GitHub Actions (CI/CD pipelines)", level: 86 },
           { name: "AWS / Azure", level: 80 },
         ],
       },
@@ -549,7 +549,7 @@ export const translations: Record<Locale, Translation> = {
         items: [
           { name: "Node.js / Express", level: 90 },
           { name: "FastAPI (Python)", level: 90 },
-          { name: "REST APIs", level: 88 },
+          { name: "REST APIs (secure, scalable)", level: 88 },
         ],
       },
       {
@@ -557,7 +557,7 @@ export const translations: Record<Locale, Translation> = {
         items: [
           { name: "SQL (MySQL / PostgreSQL)", level: 90 },
           { name: "MongoDB", level: 86 },
-          { name: "ORM (Prisma)", level: 88 },
+          { name: "Prisma (ORM)", level: 88 },
         ],
       },
       {
@@ -571,8 +571,8 @@ export const translations: Record<Locale, Translation> = {
       {
         name: "DevOps & cloud",
         items: [
-          { name: "Docker", level: 88 },
-          { name: "GitHub Actions (CI/CD)", level: 86 },
+          { name: "Docker (containerization)", level: 88 },
+          { name: "GitHub Actions (CI/CD pipelines)", level: 86 },
           { name: "AWS / Azure", level: 80 },
         ],
       },
