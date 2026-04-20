@@ -335,8 +335,8 @@ export const translations: Record<Locale, Translation> = {
           period: "janv. 2026 — aujourd’hui",
           location: "Montréal",
           points: [
-            "Accompagnement d’étudiants sur le web, le mobile et l’IA avec un soutien pratique",
-            "Ateliers techniques (React, API REST, bonnes pratiques d’ingénierie)",
+            "Encadrement d’étudiants sur des projets web, mobile et IA avec accompagnement pratique",
+            "Animation d’ateliers techniques (React, APIs REST, bonnes pratiques) améliorant la qualité des projets étudiants",
           ],
         },
         {
@@ -345,10 +345,10 @@ export const translations: Record<Locale, Translation> = {
           period: "janv. 2025 — avr. 2025",
           location: "Montréal",
           points: [
-            "Application web avec CNN pour l’analyse IRM (4 classes), précision 99,97 %",
-            "API REST avec Node.js & FastAPI et interface React",
-            "Chatbot IA avec messagerie temps réel sécurisée, planification et notifications",
-            "Services conteneurisés avec CI/CD GitHub Actions et déploiement cloud",
+            "Développement d’une application full-stack avec modèle CNN pour l’analyse d’IRM (4 classes) atteignant 99,97 % de précision",
+            "Conception d’APIs REST scalables (Node.js, FastAPI) et interface React",
+            "Intégration d’un chatbot IA avec messagerie temps réel sécurisée et notifications",
+            "Mise en place d’une architecture conteneurisée avec CI/CD (GitHub Actions) et déploiement cloud",
           ],
         },
         {
